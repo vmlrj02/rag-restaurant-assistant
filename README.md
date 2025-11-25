@@ -96,19 +96,4 @@ What is the best pizza in town?
    - user question  
 4. LLM generates a final answer  
 
----
 
-## 📌 Future Enhancements
-- Add FastAPI API endpoint  
-- Add UI (Streamlit / Gradio)  
-- Add sentiment analysis  
-- Add vector store evaluation  
-
----
-
-## 🏆 Good For
-Portfolio projects for:
-- AI Engineers  
-- LLM Developers  
-- Data Scientists  
-- NLP/RAG Engineers
